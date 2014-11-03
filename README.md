@@ -1,6 +1,13 @@
-# Modificame
+# PLANIFICACION EDUCACIÓN TECNOLÓGICA
+
+## JUGANDO CON MARKDOWN
+
+1. BUSCAR UN BLOG
+2. REALIZAR C-MAPS
 
 Este es un primer texto para *modificar*, **cambiar** y jugar.
+
+
 
 > Es nuestro arenero personal
 
