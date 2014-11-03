@@ -1,4 +1,14 @@
-# Modificame
+# PLANIFICACION EDUCACION TECNOLOGICA
+
+## JUGANDO Y APRENDIENDO MARKDOWN
+
+_ USANDO UN BLOG
+
+1. BLOGGER
+2. WORDPRESS
+3. OCTOPRESS
+
+
 
 Este es un primer texto para *modificar*, **cambiar** y jugar.
 
